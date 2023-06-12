@@ -2,9 +2,6 @@
 🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on Artificial Intelligence (AI)<br>🌱 I’m currently learning Machine Learning (ML)<br>💬 Ask me about Python<br>⚡ Fun fact Programming
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nopIGY1zJE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdemon.hasan2001/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_emon_hasan01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-emon-hasan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MdEmonHasan01) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@md_emon_hasan01) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Md_EmonHasan)
 # 💻 Tech Stack:
