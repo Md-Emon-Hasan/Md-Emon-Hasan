@@ -1,5 +1,11 @@
+### Hi there 👋 I am Emon Hasan
+
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on Artificial Intelligence (AI)<br>🌱 I’m currently learning Machine Learning (ML)<br>💬 Ask me about Python<br>⚡ Fun fact Programming
+
+"I'm a passionate machine learning engineer with a strong background in developing and deploying cutting-edge AI solutions. I specialize in building and fine-tuning machine learning models, natural language processing, computer vision, and deep learning. My work encompasses data preprocessing, feature engineering, model selection, and performance optimization. I'm committed to open-source contributions and sharing knowledge within the ML community. Let's collaborate and bring AI innovations to life!"
+
+
+🔭 I’m currently working on Machine Learning (ML)<br>👯 I’m looking to collaborate on Artificial Intelligence (AI)<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Machine Learning and NLP<br>⚡ Fun fact Programming <br/>📫 How to reach me: iconicemon01@gmail.com
 
 
 ## 🌐 Socials:
