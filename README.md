@@ -1,32 +1,20 @@
-<!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p> -->
 <p align="center"><a href="https://github.com/Md-Emon-Hasan"><img width="100%" height='60%' alt="Hello, I am Emon Hasan" src="pexels-pavel-danilyuk-8439094.jpg" /></a></p>
 
 # Hi there 👋 I am Emon Hasan
 
 <b>💫 About Me<b>:
-"I'm a passionate machine learning engineer with a strong background in developing and deploying cutting-edge AI solutions. I specialize in building and fine-tuning machine learning models, natural language processing, computer vision, and deep learning. My work encompasses data preprocessing, feature engineering, model selection, and performance optimization. I'm committed to open-source contributions and sharing knowledge within the ML community. Let's collaborate and bring AI innovations to life!"
+I am a full stack end-to-end machine learning engineer with comprehensive experience in designing, implementing, and deploying machine learning solutions. My work encompasses the entire machine learning lifecycle, including data collection and preprocessing, model development and evaluation, and production deployment. I excel at integrating ML models into scalable, real-time applications and services. With a strong foundation in both front-end and back-end technologies, I am committed to delivering high-quality, data-driven solutions that drive innovation and efficiency.
 
-
-<!-- 🔭 I’m currently working on Machine Learning (ML)<br>👯 I’m looking to collaborate on Artificial Intelligence (AI)<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Machine Learning and NLP<br>⚡ Fun fact Programming <br/>📫 How to reach me: iconicemon01@gmail.com -->
-- 🔭 I’m currently working on **Machine Learning (ML)**
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m looking to collaborate on **Artificial Intelligence (AI)**
-
-- 🤝 I’m looking for help with **Machine Learning (ML)**
-
-- 👨‍💻 All of my projects are available at [iconicemon01@gmail.com](iconicemon01@gmail.com)
-
-- 📝 I regularly write articles on [iconicemon01@gmail.com](iconicemon01@gmail.com)
-
-- 💬 Ask me about **Machine Learning**
-
-- 📫 How to reach me **iconicemon01@gmail.com**
-
-- 📄 Know about my experiences [iconicemon01@gmail.com](iconicemon01@gmail.com)
-
-- ⚡ Fun fact **Programming**
+- 🔭 I’m currently working on <b>Machine Learning (ML)</b>
+- 🌱 I’m currently learning <b>Data Science</b>
+- 👯 I’m looking to collaborate on <b>Artificial Intelligence (AI)</b>
+- 🤝 I’m looking for help with <b>Machine Learning (ML)</b>
+- 👨‍💻 All of my projects are available at <b>[Md-Emon-Hasan](https://github.com/Md-Emon-Hasan)</b>
+- 📝 I regularly write articles on <b>[Artificial Intelligence engineer ](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b>
+- 💬 Ask me about <b>Machine Learning</b>
+- 📫 How to reach me <b>iconicemon01@gmail.com</b>
+- 📄 Know about my experiences <b>[Md-Emon-Hasan](https://github.com/Md-Emon-Hasan)</b>
+- ⚡ Fun fact <b>Programming</b>
 
 
 <p align="left"> 
@@ -50,20 +38,19 @@
 ![fastText](https://img.shields.io/badge/fastText-333333.svg?style=for-the-badge&logo=fastText&logoColor=white)
 
 ## 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Md-Emon-Hasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/> -->
+
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /></p>
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Emon-Hasan&theme=radical&hide_border=false)<br/><br/> -->
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-emon-hasan&" alt="md-emon-hasan" /></p>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Emon-Hasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p>
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Md-Emon-Hasan&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-emon-hasan" alt="md-emon-hasan" /></a> </p>
 
-<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -73,5 +60,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Md-Emon-Hasan&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
