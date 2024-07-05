@@ -2,8 +2,8 @@
 
 # Hi there 👋 I am Emon Hasan
 
-## 💫 About Me<br>
-I am a full stack end-to-end machine learning engineer with comprehensive experience in designing, implementing, and deploying machine learning solutions. My work encompasses the entire machine learning lifecycle, including data collection and preprocessing, model development and evaluation, and production deployment. I excel at integrating ML models into scalable, real-time applications and services. With a strong foundation in both front-end and back-end technologies, I am committed to delivering high-quality, data-driven solutions that drive innovation and efficiency.
+## 💫 About Me:<be>
+<b><i>I am a full stack end-to-end machine learning engineer with comprehensive experience in designing, implementing, and deploying machine learning solutions. My work encompasses the entire machine learning lifecycle, including data collection and preprocessing, model development and evaluation, and production deployment. I excel at integrating ML models into scalable, real-time applications and services. With a strong foundation in both front-end and back-end technologies, I am committed to delivering high-quality, data-driven solutions that drive innovation and efficiency.</i><b>
 
 - 🔭 I’m currently working on <b>[Artificial Intelligence Engineer](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b>
 - 🌱 I’m currently learning <b>Data Science</b>
