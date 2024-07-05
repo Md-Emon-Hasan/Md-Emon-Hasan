@@ -1,3 +1,6 @@
+<!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p> -->
+<p align="center"><a href="https://github.com/Md-Emon-Hasan"><img width="80%" alt="Hello, I am Emon Hasan" src="pexels-pavel-danilyuk-8439094.jpg" /></a></p>
+
 # Hi there 👋 I am Emon Hasan
 
 <b>💫 About Me<b>:
@@ -55,12 +58,12 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Emon-Hasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p>
-<br>
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Md-Emon-Hasan&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-emon-hasan" alt="md-emon-hasan" /></a> </p>
 
+<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
