@@ -29,12 +29,18 @@
 ![fastText](https://img.shields.io/badge/fastText-333333.svg?style=for-the-badge&logo=fastText&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Md-Emon-Hasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Emon-Hasan&theme=radical&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Emon-Hasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Md-Emon-Hasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /></p>
+
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Emon-Hasan&theme=radical&hide_border=false)<br/><br/> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-emon-hasan&" alt="md-emon-hasan" /></p>
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Emon-Hasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Md-Emon-Hasan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=Md-Emon-Hasan&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-emon-hasan" alt="md-emon-hasan" /></a> </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
