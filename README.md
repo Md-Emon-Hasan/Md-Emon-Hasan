@@ -48,13 +48,13 @@
 
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Md-Emon-Hasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /></p>
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Md-Emon-Hasan&theme=radical&hide_border=false)<br/><br/> -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-emon-hasan&" alt="md-emon-hasan" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-emon-hasan&" alt="md-emon-hasan" /></p>
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Emon-Hasan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p>
 <br>
 
 ## 🏆 GitHub Trophies
