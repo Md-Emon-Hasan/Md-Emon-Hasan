@@ -1,5 +1,5 @@
 <!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p> -->
-<p align="center"><a href="https://github.com/Md-Emon-Hasan"><img width="80%" alt="Hello, I am Emon Hasan" src="pexels-pavel-danilyuk-8439094.jpg" /></a></p>
+<p align="center"><a href="https://github.com/Md-Emon-Hasan"><img width="100%" height='60%' alt="Hello, I am Emon Hasan" src="pexels-pavel-danilyuk-8439094.jpg" /></a></p>
 
 # Hi there 👋 I am Emon Hasan
 
