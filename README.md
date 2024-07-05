@@ -5,16 +5,16 @@
 <b>💫 About Me<b>:
 I am a full stack end-to-end machine learning engineer with comprehensive experience in designing, implementing, and deploying machine learning solutions. My work encompasses the entire machine learning lifecycle, including data collection and preprocessing, model development and evaluation, and production deployment. I excel at integrating ML models into scalable, real-time applications and services. With a strong foundation in both front-end and back-end technologies, I am committed to delivering high-quality, data-driven solutions that drive innovation and efficiency.
 
-- 🔭 I’m currently working on <b>[Artificial Intelligence engineer](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b>
+- 🔭 I’m currently working on <b>[Artificial Intelligence Engineer](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b>
 - 🌱 I’m currently learning <b>Data Science</b>
 - 👯 I’m looking to collaborate on <b>Artificial Intelligence (AI)</b>
-- 🤝 I’m looking for help with <b>[Artificial Intelligence engineer](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b>
-- 👨‍💻 All of my projects are available at <b>[Md-Emon-Hasan](https://github.com/Md-Emon-Hasan)</b>
+- 🤝 I’m looking for help with <b>[Artificial Intelligence Project](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b>
+- 👨‍💻 All of my projects are available at <b>[Emon Hasan/GitHub](https://github.com/Md-Emon-Hasan)</b>
 - 📝 I regularly write articles on 
 - 💬 Ask me about <b>Machine Learning</b>
 - 📫 How to reach me <b>iconicemon01@gmail.com</b>
-- 📄 Know about my experiences <b>[Md-Emon-Hasan](https://github.com/Md-Emon-Hasan)</b>
-- ⚡ Fun fact <b>Programming</b>
+- 📄 Know about my experiences <b>[Emon Hasan/GitHub](https://github.com/Md-Emon-Hasan)</b>
+- ⚡ Fun fact <b>Python</b>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/md-emon-hasan-695483237/" target="blank">
@@ -40,6 +40,7 @@ I am a full stack end-to-end machine learning engineer with comprehensive experi
 
 ### Data Science:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/documentation)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
