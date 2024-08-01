@@ -10,16 +10,16 @@
 - 👯 I’m looking to collaborate on <b>Artificial Intelligence (AI)</b>
 - 🤝 I’m looking for help with <b>[Artificial Intelligence Project](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b>
 - 👨‍💻 All of my projects are available at <b>[Emon Hasan/GitHub](https://github.com/Md-Emon-Hasan)</b>
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on
 - 💬 Ask me about <b>Machine Learning</b>
 - 📫 How to reach me <b>iconicemon01@gmail.com</b>
 - 📄 Know about my experiences <b>[Emon Hasan/GitHub](https://github.com/Md-Emon-Hasan)</b>
 - ⚡ Fun fact <b>Python</b>
 
-<p align="left"> 
+<p align="left">
   <a href="https://www.linkedin.com/in/md-emon-hasan-695483237/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-follow-blue/?style=for-the-badge&logo=linkedin" alt="md-emon-hasan" />
-  </a> 
+  </a>
 </p>
 
 ## 🌐 Socials:
@@ -96,11 +96,9 @@
 [![Gemini](https://img.shields.io/badge/Gemini-unknown.svg?style=for-the-badge&logoColor=white)](https://example.com)
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /></p> | <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-emon-hasan&" alt="md-emon-hasan" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p>
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Md-Emon-Hasan&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
