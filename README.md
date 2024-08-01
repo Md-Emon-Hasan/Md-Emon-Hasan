@@ -96,7 +96,7 @@
 [![Gemini](https://img.shields.io/badge/Gemini-unknown.svg?style=for-the-badge&logoColor=white)](https://example.com)
 
 ## 📊 GitHub Stats:
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /></p> | <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-emon-hasan&" alt="md-emon-hasan" /></p>
 
