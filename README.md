@@ -96,7 +96,7 @@
 [![Gemini](https://img.shields.io/badge/Gemini-unknown.svg?style=for-the-badge&logoColor=white)](https://example.com)
 
 ## 📊 GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p>
+<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p></a>
 | ------------- | ------------- |
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-emon-hasan&" alt="md-emon-hasan" /></p>
@@ -111,6 +111,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Md-Emon-Hasan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## Top Repositories
+<a href="https://github.com/Md-Emon-Hasan/Artificial-Intelligence-Engineer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/Md-Emon-Hasan/Data-Science">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Md-Emon-Hasan&icon=6&color=0)](https://visitcount.itsvg.in)
