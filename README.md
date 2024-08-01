@@ -112,12 +112,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Md-Emon-Hasan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## Top Repositories
-<a href="https://github.com/Md-Emon-Hasan/Artificial-Intelligence-Engineer">
-  <img align="center" src="https://media.istockphoto.com/id/1491857076/photo/tree-light-bulb-glowing-hold-in-hand-on-blue-background-concept-of-saving-electricity.webp?s=1024x1024&w=is&k=20&c=Pc8fAuBVEmepq4glK2-c3lbhZj1eZ1-40gh-tg1RO_k=" />
+<a height="100px" width="50%" href="https://github.com/Md-Emon-Hasan/Artificial-Intelligence-Engineer">
+  <img height="100%" width="100%" align="center" src="https://media.istockphoto.com/id/1491857076/photo/tree-light-bulb-glowing-hold-in-hand-on-blue-background-concept-of-saving-electricity.webp?s=1024x1024&w=is&k=20&c=Pc8fAuBVEmepq4glK2-c3lbhZj1eZ1-40gh-tg1RO_k=" />
 </a>
-<a href="https://github.com/Md-Emon-Hasan/Data-Science">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a height="100px",width="50%" href="https://github.com/Md-Emon-Hasan/Data-Science">
+  <img height="100%", width="100%" align="center" src="https://media.istockphoto.com/id/1491857076/photo/tree-light-bulb-glowing-hold-in-hand-on-blue-background-concept-of-saving-electricity.webp?s=1024x1024&w=is&k=20&c=Pc8fAuBVEmepq4glK2-c3lbhZj1eZ1-40gh-tg1RO_k=" />
 </a>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Md-Emon-Hasan&icon=6&color=0)](https://visitcount.itsvg.in)
