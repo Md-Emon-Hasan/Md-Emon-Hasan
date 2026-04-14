@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋 I am Emon Hasan</h1>
 
 <!-- <h1 align="center">Md. Emon Hasan</h1> -->
-<h3 align="center">Machine Learning Engineer • LLM Fine-Tuning Specialist • Data-driven AI systems • Agentic AI Systems Architect</h3>
+<h3 align="center">Machine Learning Engineer • LLM Fine-Tuning Specialist • Data-driven AI Engineer • Agentic AI Systems Architect</h3>
 
 <p align="center">
 Designing data-centric AI systems, fine-tuning large language models, and deploying production-grade intelligent systems.
@@ -47,10 +47,18 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_emon_hasan01)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdemon.hasan2001/)<br>
 
-
 ---
 
 ## 🛠️ Tech Stack
+
+### 💻 Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 🧠 Machine Learning (Classical ML)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
