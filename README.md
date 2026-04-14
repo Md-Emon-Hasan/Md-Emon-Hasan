@@ -355,7 +355,9 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 
 ## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Md-Emon-Hasan&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-emon-hasan" alt="md-emon-hasan" /></a> </p>
+<!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-emon-hasan" alt="md-emon-hasan" /></a> </p> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=md-emon-hasan&theme=onedark)](https://github.com/md-emon-hasan/github-profile-trophy)
 
 ---
 
