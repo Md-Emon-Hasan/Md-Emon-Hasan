@@ -1,5 +1,7 @@
 <p align="center"><a href="https://github.com/Md-Emon-Hasan"><img width="100%"  alt="Hello, I am Emon Hasan" src="pexels-pavel-danilyuk-8439094.jpg" /></a></p>
 
+<p align="center"><a href="https://github.com/Md-Emon-Hasan"><img width="100%"  alt="Hello, I am Emon Hasan" src="pexels-pavel-danilyuk-8439094.jpg" /></a></p>
+
 <!-- # Hi there 👋 I am Emon Hasan -->
 <h1 align="center">Hi there 👋 I am Emon Hasan</h1>
 
@@ -35,12 +37,6 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 - 💬 Ask me about <b>Machine Learning</b>
 - ⚡ Fun fact <b>Python</b>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-emon-hasan-695483237/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-follow-blue/?style=for-the-badge&logo=linkedin" alt="md-emon-hasan" />
-  </a>
-</p>
-
 ---
 
 ## 🌐 Socials:
@@ -59,7 +55,6 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ## 🛠️ Tech Stack
 
 ### 🧠 Machine Learning (Classical ML)
-
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Feature--Engine](https://img.shields.io/badge/Feature--Engine-4CAF50?style=for-the-badge)
 ![Category--Encoders](https://img.shields.io/badge/Category--Encoders-FF6F00?style=for-the-badge)
@@ -70,10 +65,6 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ![MinMaxScaler](https://img.shields.io/badge/MinMaxScaler-9C27B0?style=for-the-badge)
 ![Label--Encoding](https://img.shields.io/badge/Label--Encoding-FF9800?style=for-the-badge)
 ![One--Hot--Encoding](https://img.shields.io/badge/One--Hot--Encoding-00C853?style=for-the-badge)
-![PCA](https://img.shields.io/badge/PCA-009688?style=for-the-badge)
-![t--SNE](https://img.shields.io/badge/t--SNE-795548?style=for-the-badge)
-![KMeans](https://img.shields.io/badge/KMeans-FFEB3B?style=for-the-badge)
-![DBSCAN](https://img.shields.io/badge/DBSCAN-607D8B?style=for-the-badge)
 ![Hierarchical--Clustering](https://img.shields.io/badge/Hierarchical--Clustering-8BC34A?style=for-the-badge)
 ![Bagging](https://img.shields.io/badge/Bagging-4CAF50?style=for-the-badge)
 ![Boosting](https://img.shields.io/badge/Boosting-3F51B5?style=for-the-badge)
@@ -132,16 +123,11 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 
 
 ### 🧠 NLP & Representation Learning
-
 ![NLTK](https://img.shields.io/badge/NLTK-3C3B6E?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
 ![Gensim](https://img.shields.io/badge/Gensim-FFA500?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge)
 ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-00AEEF?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-000000?style=for-the-badge)
-![RoBERTa](https://img.shields.io/badge/RoBERTa-FF5722?style=for-the-badge)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-4CAF50?style=for-the-badge)
-![ALBERT](https://img.shields.io/badge/ALBERT-3F51B5?style=for-the-badge)
 ![TF-IDF](https://img.shields.io/badge/TF--IDF-800080?style=for-the-badge)
 ![Bag--of--Words](https://img.shields.io/badge/Bag--of--Words-795548?style=for-the-badge)
 ![N-Grams](https://img.shields.io/badge/N--Grams-009688?style=for-the-badge)
@@ -157,9 +143,6 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ![POS--Tagging](https://img.shields.io/badge/POS--Tagging-FFC107?style=for-the-badge)
 ![NER](https://img.shields.io/badge/NER-009688?style=for-the-badge)
 ![Chunking](https://img.shields.io/badge/Chunking-795548?style=for-the-badge)
-![Text--Classification](https://img.shields.io/badge/Text--Classification-FF6F00?style=for-the-badge)
-![Sentiment--Analysis](https://img.shields.io/badge/Sentiment--Analysis-00BCD4?style=for-the-badge)
-![Topic--Modeling](https://img.shields.io/badge/Topic--Modeling-795548?style=for-the-badge)
 ![TextBlob](https://img.shields.io/badge/TextBlob-F77F00?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFC107?style=for-the-badge)
 ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
@@ -167,9 +150,6 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ![Self--Attention](https://img.shields.io/badge/Self--Attention-009688?style=for-the-badge)
 ![Encoder--Decoder](https://img.shields.io/badge/Encoder--Decoder-FF9800?style=for-the-badge)
 ![Seq2Seq](https://img.shields.io/badge/Seq2Seq-795548?style=for-the-badge)
-![Machine--Translation](https://img.shields.io/badge/Machine--Translation-009688?style=for-the-badge)
-![Text--Summarization](https://img.shields.io/badge/Text--Summarization-FF5722?style=for-the-badge)
-![Question--Answering](https://img.shields.io/badge/Question--Answering-3F51B5?style=for-the-badge)
 ![Semantic--Search](https://img.shields.io/badge/Semantic--Search-00BCD4?style=for-the-badge)
 ![Embedding](https://img.shields.io/badge/Embeddings-9C27B0?style=for-the-badge)
 ![BLEU](https://img.shields.io/badge/BLEU-4CAF50?style=for-the-badge)
@@ -199,7 +179,6 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ![Reflection](https://img.shields.io/badge/Reflection-795548?style=for-the-badge)
 ![Self-Consistency](https://img.shields.io/badge/Self--Consistency-009688?style=for-the-badge)
 ![Tool Router](https://img.shields.io/badge/Tool--Router-000000?style=for-the-badge)
-![Tool Selection](https://img.shields.io/badge/Tool--Selection-4CAF50?style=for-the-badge)
 ![Dynamic Routing](https://img.shields.io/badge/Dynamic--Routing-FF5722?style=for-the-badge)
 ![Memory](https://img.shields.io/badge/Memory-3F51B5?style=for-the-badge)
 ![Short-Term Memory](https://img.shields.io/badge/Short--Term--Memory-009688?style=for-the-badge)
@@ -226,7 +205,6 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 
 
 ### 🔥 LLM Fine-Tuning & Training
-
 ![PEFT](https://img.shields.io/badge/PEFT-FF6F00?style=for-the-badge)
 ![LoRA](https://img.shields.io/badge/LoRA-00AEEF?style=for-the-badge)
 ![QLoRA](https://img.shields.io/badge/QLoRA-B500FF?style=for-the-badge)
@@ -271,7 +249,6 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 
 
 ### 📊 Data Science & Analysis
-
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
@@ -291,7 +268,6 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ![Covariance](https://img.shields.io/badge/Covariance-607D8B?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data--Visualization-FF6F00?style=for-the-badge)
 ![Interactive Visualization](https://img.shields.io/badge/Interactive--Viz-00BCD4?style=for-the-badge)
-![Dashboarding](https://img.shields.io/badge/Dashboarding-795548?style=for-the-badge)
 ![Time Series Analysis](https://img.shields.io/badge/Time--Series-4CAF50?style=for-the-badge)
 ![Trend Analysis](https://img.shields.io/badge/Trend--Analysis-009688?style=for-the-badge)
 ![Missing Values](https://img.shields.io/badge/Missing--Values-4CAF50?style=for-the-badge)
@@ -346,34 +322,86 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ---
 
 ## 📊 GitHub Stats:
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p></a>
-| ------------- | ------------- |
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-emon-hasan&" alt="md-emon-hasan" /></p>
+<!--Github stats Table--> 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Md-Emon-Hasan">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Md-Emon-Hasan&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Md-Emon-Hasan">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Md-Emon-Hasan&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Md-Emon-Hasan/Translatica">
+          <img align="center" width="470" height="200" src="https://github.com/user-attachments/assets/f333d2a8-3ae5-40d5-ae72-28a55a976872" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Md-Emon-Hasan">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Md-Emon-Hasan&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 ---
 
 ## 🏆 GitHub Trophies
-<!-- ![](https://github-profile-trophy.vercel.app/?username=Md-Emon-Hasan&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-<!-- <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-emon-hasan" alt="md-emon-hasan" /></a> </p> -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=md-emon-hasan&theme=onedark)](https://github.com/md-emon-hasan/github-profile-trophy)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repositories
-
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Md-Emon-Hasan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <a href="https://github.com/Md-Emon-Hasan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Md-Emon-Hasan&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Md-Emon-Hasan&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Md-Emon-Hasanno-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
 </p>
 
 ---
 
+## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Md-Emon-Hasan&icon=5&color=12" />
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Roy%20T.%20Bennett&quote=Do%20not%20fear%20failure%20but%20rather%20fear%20not%20trying.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+
+---
+
+<!--Contribution Graph-->
+## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Emon-Hasan&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
+---
+
+
+
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/Md-Emon-Hasan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
