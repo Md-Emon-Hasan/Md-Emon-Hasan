@@ -1,129 +1,138 @@
-<p align="center"><a href="https://github.com/Md-Emon-Hasan"><img width="100%"  alt="Hello, I am Emon Hasan" src="pexels-pavel-danilyuk-8439094.jpg" /></a></p>
-
-# Hi there 👋 I am Emon Hasan
-
-## 💫 About Me:<be>
-<b><i>Hi, I am Md Emon Hasan from Bangladesh. I am a full-stack, end-to-end **AI/ML & Agentic AI engineer** with comprehensive experience in designing, implementing, and deploying **production-ready, multi-agent AI systems**. My work spans the **entire AI/ML lifecycle**, including data collection, preprocessing, feature engineering, model development, fine-tuning (QLoRA / LoRA / PEFT / SFT), evaluation, and scalable deployment.  
-
-I specialize in integrating AI/ML models into **real-time, tool-augmented, and scalable applications**, leveraging **multi-agent architectures, LangGraph/AgentOps orchestration, and intelligent reasoning workflows**. With a solid foundation in both **front-end and back-end development**, I ensure AI solutions are not only high-performing but also **reliable, maintainable, and enterprise-ready**.  
-
-I am passionate about building **intelligent, adaptive, and real-world AI systems** that drive **innovation, efficiency, and measurable impact**.  
-</i></b>
-
-
-- 🔭 I’m currently working on <b>[Artificial Intelligence Engineer](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b>
-- 🌱 I’m currently learning <b>Data Science</b>
-- 👯 I’m looking to collaborate on <b>Artificial Intelligence (AI)</b>
-- 🤝 I’m looking for help with <b>[Artificial Intelligence Project](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b>
-- 👨‍💻 All of my projects are available at <b>[Emon Hasan/GitHub](https://github.com/Md-Emon-Hasan)</b>
-- 📝 I regularly write articles on
-- 💬 Ask me about <b>Machine Learning</b>
-- 📫 How to reach me <b>emon.mlengineer@gmail.com</b>
-- 📄 Know about my experiences <b>[Emon Hasan/GitHub](https://github.com/Md-Emon-Hasan)</b>
-- ⚡ Fun fact <b>Python</b>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-emon-hasan-695483237/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-follow-blue/?style=for-the-badge&logo=linkedin" alt="md-emon-hasan" />
-  </a>
-</p>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdemon.hasan2001/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_emon_hasan01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-emon-hasan-695483237/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MdEmonHasan01) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@md_emon_hasan01) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Md_EmonHasan)<br>
-
-## 💻 Tech Stack:
-### Core Language:
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://devdocs.io/cpp/)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php)
-[![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  <h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+<div align="center">
+<a href="https://ossinsight.io">
+  <img src="/web/static/img/screenshots/homepage.gif" height="360" &#x3c;="" a="">
+</a></div><a href="https://ossinsight.io">
+</a><h4 align="center"><a href="https://ossinsight.io">
+  <b></b></a><b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  •
+  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  •
+  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  •
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  •
+  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+  •
+  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
+  •
+  <a href="https://ossinsight.io/blog">Blog</a>
+  •
+  <a href="https://ossinsight.io/docs">API</a>
+  •
+  <a href="https://twitter.com/OSSInsight">Twitter</a>
+</h4>
+<h2 id="introduction">Introduction</h2>
+<p>OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data.</p>
+<p><a href="https://www.youtube.com/watch?v=6ofDBgXh4So&amp;t=1s">🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software</a></p>
+<h2 id="embed-real-time-widget-in-repos--personal-readmemd-within-30s">Embed Real-time Widget in Repo’s / Personal README.md within 30s!</h2>
+<p>For all charming widgets, please <a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Check it out 👉</a>, here are some examples:</p>
 
 
-### Web Development:
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://api.jquery.com/)
-
-### Data Science / ML:
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/documentation)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007ACC.svg?style=for-the-badge&logo=Python&logoColor=white)](https://matplotlib.org/stable/contents.html)
-[![Seaborn](https://img.shields.io/badge/Seaborn-%23007ACC.svg?style=for-the-badge&logo=Python&logoColor=white)](https://seaborn.pydata.org/tutorial.html)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/api_docs/python/)
-[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/api/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/docs/stable/index.html)
-[![MySQL](https://img.shields.io/badge/MySQL-%2300748B.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://docs.mongodb.com/)
 
 
-### NLP / Transformers:
-[![NLTK](https://img.shields.io/badge/NLTK-3C3B6E?style=for-the-badge&logo=python&logoColor=white)](https://www.nltk.org/)
-[![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
-[![Gensim](https://img.shields.io/badge/Gensim-FFA500?style=for-the-badge&logo=gensim&logoColor=white)](https://radimrehurek.com/gensim/)
-[![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logo=transformers&logoColor=white)](https://huggingface.co/transformers/)
-[![BERT](https://img.shields.io/badge/BERT-%23000000.svg?style=for-the-badge&logo=bert&logoColor=white)](https://github.com/google-research/bert)
-[![TextBlob](https://img.shields.io/badge/TextBlob-F77F00?style=for-the-badge&logo=textblob&logoColor=white)](https://textblob.readthedocs.io/en/dev/)
-[![word2vec](https://img.shields.io/badge/word2vec-FF4500?style=for-the-badge&logo=word2vec&logoColor=white)](https://radimrehurek.com/gensim/models/word2vec.html)
-[![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-FFC107?style=for-the-badge&logo=beautifulsoup&logoColor=black)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge&logo=regex&logoColor=white)](https://docs.python.org/3/library/re.html)
-[![TF-IDF](https://img.shields.io/badge/TF--IDF-800080?style=for-the-badge&logo=tf-idf&logoColor=white)](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 
 
-### Generative AI, LLM Tools & Frameworks:
-[![Hugging Face Transformers](https://img.shields.io/badge/Hugging%20Face%20Transformers-%2321B3E8.svg?style=for-the-badge&logo=hugging%20face&logoColor=white)](https://huggingface.co/transformers/)
-[![LangChain](https://img.shields.io/badge/LangChain-%23007ACC.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-%23007ACC.svg?style=for-the-badge&logo=langgraph&logoColor=white)](https://github.com/langgraph/langgraph)
-[![LangSmith](https://img.shields.io/badge/LangSmith-%23007ACC.svg?style=for-the-badge&logo=langsmith&logoColor=white)](https://github.com/langsmith/langsmith)
-[![LangServe](https://img.shields.io/badge/LangServe-%23000000.svg?style=for-the-badge&logo=langserve&logoColor=white)](https://github.com/langserve/langserve)
-[![AgentOps](https://img.shields.io/badge/AgentOps-%23007ACC.svg?style=for-the-badge&logo=agentops&logoColor=white)](https://www.agentops.com/)
-[![RAG](https://img.shields.io/badge/RAG-%230080FF.svg?style=for-the-badge&logo=rag&logoColor=white)](https://www.langchain.com/docs/use-cases/retrieval-augmented-generation)
-[![VectorDB](https://img.shields.io/badge/VectorDB-%2300AEEF.svg?style=for-the-badge&logo=weaviate&logoColor=white)](https://weaviate.io/)
-[![Chroma](https://img.shields.io/badge/Chroma-%2300FFAA.svg?style=for-the-badge&logo=chromadb&logoColor=white)](https://www.trychroma.com/)
-[![FAISS](https://img.shields.io/badge/FAISS-%23B500FF.svg?style=for-the-badge&logo=faiss&logoColor=white)](https://github.com/facebookresearch/faiss)
-[![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/)
-[![SFT](https://img.shields.io/badge/SFT-%23007ACC.svg?style=for-the-badge)](https://huggingface.co/docs/trl/index)
-[![PEFT](https://img.shields.io/badge/PEFT-%23FF6F00.svg?style=for-the-badge)](https://huggingface.co/docs/peft/index)
-[![LoRA](https://img.shields.io/badge/LoRA-%2300AEEF.svg?style=for-the-badge)](https://huggingface.co/docs/peft/index)
-[![QLoRA](https://img.shields.io/badge/QLoRA-%23B500FF.svg?style=for-the-badge)](https://huggingface.co/docs/trl/index)
 
 
-### Deployment, MLOps & AgentOps:
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-%2300ACC1.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Streamlit](https://img.shields.io/badge/streamlit-%235F4687.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/)
-[![Gradio](https://img.shields.io/badge/gradio-%23F77F00.svg?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app/)
-[![TensorFlow Serving](https://img.shields.io/badge/tensorflow%20serving-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/tfx/guide/serving)
-[![ONNX](https://img.shields.io/badge/ONNX-%23F00000.svg?style=for-the-badge&logo=onnx&logoColor=white)](https://onnx.ai/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
-[![DVC](https://img.shields.io/badge/DVC-%23EE4C2C.svg?style=for-the-badge&logo=dvc&logoColor=white)](https://dvc.org/doc)
-[![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=github%20actions&logoColor=white)](https://docs.github.com/en/actions)
-[![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://circleci.com/docs/)
-[![AgentOps](https://img.shields.io/badge/AgentOps-%23007ACC.svg?style=for-the-badge&logo=agentops&logoColor=white)](https://www.agentops.com/)
-[![Render](https://img.shields.io/badge/Render-%23FF5E5B.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/docs)
 
-## 📊 GitHub Stats:
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=md-emon-hasan&show_icons=true&locale=en" alt="md-emon-hasan" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emon-hasan&show_icons=true&locale=en&layout=compact" alt="md-emon-hasan" /></p></a>
-| ------------- | ------------- |
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=md-emon-hasan&" alt="md-emon-hasan" /></p>
 
-## 🏆 GitHub Trophies
-<!-- ![](https://github-profile-trophy.vercel.app/?username=Md-Emon-Hasan&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-emon-hasan" alt="md-emon-hasan" /></a> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Md-Emon-Hasan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<table><thead><tr><th>Repository Activity Trends</th><th>Collaborative Productivity - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
 
----
-[![](https://visitcount.itsvg.in/api?id=Md-Emon-Hasan&icon=6&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Repository Performance Stats - Last 28 days</th><th>Active Contributors - Last 28 days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&amp;limit=100&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Star Geographic Distribution</th><th>Star History</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&amp;repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Company Affiliation</th><th>Lines of Code Changes</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&amp;repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Pull Request Size</th><th>Pull Request Lifecycle</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Currently Working On - Last 28 days</th><th>Top Active Contributors - Last 28 Days</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&amp;user_id=12960671&amp;image_size=auto"></td><td><img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&amp;image_size=auto"></td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Repository Annual Ranking</th><th>Find More</th></tr></thead><tbody><tr><td><img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&amp;collection_id=2&amp;image_size=auto"></td><td><a href="https://next.ossinsight.io/widgets?utm_source=github&amp;utm_medium=referral">Visit our website</a></td></tr></tbody></table>
+<h2 id="contact-us">Contact us</h2>
+<a href="https://twitter.com/OSSInsight" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="twitter" style="margin-bottom: 5px;">
+</a><a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
+<img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
+</a><a href="mailto:ossinsight@pingcap.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="gmail" style="margin-bottom: 5px;">
+<h2 id="sponsors">Sponsors</h2>
+</a><a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&amp;utm_medium=referral">
+<img src="/web/static/img/tidb-cloud-logo-w.png" height="50">
+</a> 
