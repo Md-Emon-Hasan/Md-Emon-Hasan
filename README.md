@@ -241,40 +241,44 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ---
 
 ## 📊 GitHub Stats:
-<!--Github stats Table--> 
+<!--Github stats Table-->
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Md-Emon-Hasan">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Md-Emon-Hasan&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Md-Emon-Hasan">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Md-Emon-Hasan&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img width="100%" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Md-Emon-Hasan&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+    <td width="100%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Md-Emon-Hasan">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Md-Emon-Hasan&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img width="100%" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Md-Emon-Hasan&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Md-Emon-Hasan">
+          <img width="100%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Md-Emon-Hasan&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&layout=compact" alt="Top Contributions" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Md-Emon-Hasan/Translatica">
-          <img align="center" width="470" height="175" src="https://github.com/user-attachments/assets/f333d2a8-3ae5-40d5-ae72-28a55a976872" alt="Awesome-Dev-Portfolios" />
+          <img width="100%" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Md-Emon-Hasan&repo=Translatica&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
