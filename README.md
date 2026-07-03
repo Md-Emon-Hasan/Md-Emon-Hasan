@@ -27,10 +27,10 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 <!-- - 👯 I’m looking to collaborate on <b>Artificial Intelligence (AI)</b> -->
 <!-- - 🤝 I’m looking for help with <b>[Artificial Intelligence Project](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b> -->
 - 👨‍💻 All of my projects are available at <b>[Emon Hasan GitHub](https://github.com/Md-Emon-Hasan)</b>
-- 🌐 Portfolio: <b>[Md Emon Hasan Portfolio](https://md-emon-hasan.github.io/My-Resume/)</b>
-- 💼 LinkedIn: <b>[Md Emon Hasan LinkedIn](https://www.linkedin.com/in/md-emon-hasan-695483237/)</b>
+- 🌐 Portfolio: <b>[Emon Hasan Portfolio](https://emonlabs-ai.hitechparks.com)</b>
+- 📄 Resume: <b>[Emon Hasan Resume](https://md-emon-hasan.github.io/My-Resume/images/Md-Emon-Hasan.pdf)</b>
+- 💼 LinkedIn: <b>[Emon Hasan LinkedIn](https://www.linkedin.com/in/md-emon-hasan-695483237/)</b>
 - 📝 I regularly write articles on <b>[medium.com/@emon.mlengineer](https://medium.com/@emon.mlengineer)</b>
-- 📄 Know about my experiences <b>[Emon Hasan Resume](https://md-emon-hasan.github.io/My-Resume/images/resume.pdf)</b>
 - 📫 How to reach me <b><a href="mailto:emon.mlengineer@gmail.com">emon.mlengineer@gmail.com</a></b>
 - 💬 Ask me about <b>Machine Learning</b>
 - ⚡ Fun fact <b>Python</b>
@@ -38,7 +38,7 @@ My work centers on **developing intelligent, adaptive, and real-world AI systems
 ---
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?logo=vercel&logoColor=white)](https://md-emon-hasan.github.io/My-Resume/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?logo=vercel&logoColor=white)](https://emonlabs-ai.hitechparks.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-emon-hasan-695483237/)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?logo=medium&logoColor=white)](https://medium.com/@emon.mlengineer)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/8801834363533)
