@@ -66,9 +66,7 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ![Boosting](https://img.shields.io/badge/Boosting-3F51B5?style=for-the-badge)
 ![Stacking](https://img.shields.io/badge/Stacking-9C27B0?style=for-the-badge)
 ![Cross-Validation](https://img.shields.io/badge/Cross--Validation-4CAF50?style=for-the-badge)
-![ROC-AUC](https://img.shields.io/badge/ROC--AUC-FF6F00?style=for-the-badge)
-![F1-Score](https://img.shields.io/badge/F1--Score-3F51B5?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-FF0055?style=for-the-badge)
+![XAI](https://img.shields.io/badge/XAI-FF0055?style=for-the-badge)
 ![Feature-Selection](https://img.shields.io/badge/Feature--Selection-8BC34A?style=for-the-badge)
 ![Regularization](https://img.shields.io/badge/Regularization-795548?style=for-the-badge)
 
@@ -80,9 +78,8 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ![CNN](https://img.shields.io/badge/CNN-FF5722?style=for-the-badge)
 ![LSTM](https://img.shields.io/badge/LSTM-9C27B0?style=for-the-badge)
 ![Transfer-Learning](https://img.shields.io/badge/Transfer--Learning-FF6F00?style=for-the-badge)
-![Adam](https://img.shields.io/badge/Adam-FF9800?style=for-the-badge)
-![BatchNorm](https://img.shields.io/badge/BatchNorm-795548?style=for-the-badge)
-![Early-Stopping](https://img.shields.io/badge/Early--Stopping-607D8B?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-FF9800?style=for-the-badge)
+![GRU](https://img.shields.io/badge/GRU-795548?style=for-the-badge)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
@@ -90,13 +87,11 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-3C3B6E?style=for-the-badge)
-![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-00AEEF?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-9C27B0?style=for-the-badge)
 ![Tokenization](https://img.shields.io/badge/Tokenization-000000?style=for-the-badge)
 ![Attention](https://img.shields.io/badge/Attention-3F51B5?style=for-the-badge)
 ![NER](https://img.shields.io/badge/NER-009688?style=for-the-badge)
 ![Semantic-Search](https://img.shields.io/badge/Semantic--Search-00BCD4?style=for-the-badge)
-![BLEU](https://img.shields.io/badge/BLEU-4CAF50?style=for-the-badge)
 
 
 ### 🤖 Artificial Intelligence & Agentic AI
@@ -104,12 +99,11 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ![LangGraph](https://img.shields.io/badge/LangGraph-007ACC?style=for-the-badge)
 ![LangSmith](https://img.shields.io/badge/LangSmith-007ACC?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-800080?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0080FF?style=for-the-badge)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent--Systems-3F51B5?style=for-the-badge)
 ![Tool Calling](https://img.shields.io/badge/Tool--Calling-000000?style=for-the-badge)
-![ReAct](https://img.shields.io/badge/ReAct-9C27B0?style=for-the-badge)
-![Long-Term Memory](https://img.shields.io/badge/Long--Term--Memory-795548?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-9C27B0?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/Context--Engineering-795548?style=for-the-badge)
 
 
 ### 🔥 LLM Fine-Tuning & Training
@@ -143,7 +137,6 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ![Feature-Engineering](https://img.shields.io/badge/Feature--Engineering-8BC34A?style=for-the-badge)
 ![Statistical-Analysis](https://img.shields.io/badge/Statistical--Analysis-795548?style=for-the-badge)
 ![Data-Cleaning](https://img.shields.io/badge/Data--Cleaning-000000?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL-FF5722?style=for-the-badge)
 
 
 ### 🗄️ SQL & Databases
