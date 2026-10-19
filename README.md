@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/Md-Emon-Hasan"><img width="100%"  alt="Hello, I am Emon Hasan" src="pexels-pavel-danilyuk-8439094.jpg" /></a></p>
 
 <!-- # Hi there 👋 I am Emon Hasan -->
-<h1 align="center">Hi there 👋 I am Emon Hasan</h1>
+<h1 align="center">Hi there! I am Emon Hasan</h1>
 
 <!-- <h1 align="center">Md. Emon Hasan</h1> -->
 <h3 align="center">Machine Learning Engineer • LLM Fine-Tuning Specialist • Data-driven AI Engineer • Agentic AI Systems Architect</h3>
@@ -45,7 +45,7 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@emon.mlengineer)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801834363533)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emon.mlengineer@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/Md_EmonHasan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/MdEmonHasan01)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/md_emon_hasan01)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mdemon.hasan2001/)
 
