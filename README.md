@@ -18,7 +18,7 @@ Hi, I'm **Md Emon Hasan** — an **AI/ML Engineer** from Dhaka, Bangladesh, buil
  
 My core strength is **fine-tuning LLM** — hands-on with **LoRA, QLoRA, parameter-efficient fine-tuning, and supervised fine-tuning**, alongside instruction tuning, quantization, and inference optimization to adapt models for real-world, domain-specific tasks, with custom datasets and evaluation pipelines built end-to-end. Beyond text, I build **multimodal systems**: **Speech-to-Text** voice pipelines, **Text-to-Speech** for natural conversational AI, and **Computer Vision** spanning **OCR** and **Vision-Language Models**.
  
-I also design **agentic AI systems** — multi-agent architectures and **RAG pipelines** with LangChain, LangGraph, and CrewAI, featuring hybrid search, reranking, tool-augmented agents, and long-term memory. With a foundation in both front-end and back-end development, I ship these as reliable, scalable products — training, hosting, and serving models on **AWS SageMaker**, with **FastAPI, Docker, Nginx, and automated CI/CD** completing the stack.
+I also design **agentic AI systems** — multi-agent architectures and **RAG pipelines** with LangChain, LangGraph, and CrewAI, featuring hybrid search, reranking, tool-augmented agents, and long-term memory. With a foundation in both front-end and back-end development, I ship these as reliable, scalable products training, hosting, and serving models on **AWS SageMaker**, with **FastAPI, Docker, Nginx, and automated CI/CD** completing the stack.
 </i></b>
 
 
