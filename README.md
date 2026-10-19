@@ -16,11 +16,9 @@ Designing data-centric AI systems, fine-tuning large language models, and deploy
 <b><i>
 Hi, I'm **Md Emon Hasan** — an **AI/ML Engineer** from Dhaka, Bangladesh, building **production-grade, multimodal agentic AI systems** across text, speech, and vision.
  
-My core strength is **fine-tuning Large Language Models**. I work hands-on with **LoRA, QLoRA, PEFT, and SFT**, along with instruction tuning, quantization, and inference optimization to adapt models like for real-world, domain-specific tasks — building custom datasets, evaluation pipelines, and feedback loops end-to-end.
+My core strength is **fine-tuning LLM** — hands-on with **LoRA, QLoRA, parameter-efficient fine-tuning, and supervised fine-tuning**, alongside instruction tuning, quantization, and inference optimization to adapt models for real-world, domain-specific tasks, with custom datasets and evaluation pipelines built end-to-end. Beyond text, I build **multimodal systems**: **Speech-to-Text** voice pipelines, **Text-to-Speech** for natural conversational AI, and **Computer Vision** spanning **OCR** and **Vision-Language Models**.
  
-Beyond text, I build **multimodal AI**: **Speech-to-Text (STT)** transcription and voice pipelines, **Text-to-Speech (TTS)** for natural conversational AI, and **Computer Vision** including OCR and **Vision-Language Models (VLMs)** for multimodal reasoning.
- 
-I also design **agentic AI systems** — multi-agent architectures and **RAG pipelines** with LangChain, LangGraph, and CrewAI, featuring hybrid search, reranking, tool-augmented agents, and long-term memory. With a foundation in both front-end and back-end development, I ship these solutions as reliable, scalable products using **FastAPI, Docker, Nginx, and CI/CD** — turning intelligent AI into measurable real-world impact.
+I also design **agentic AI systems** — multi-agent architectures and **RAG pipelines** with LangChain, LangGraph, and CrewAI, featuring hybrid search, reranking, tool-augmented agents, and long-term memory. With a foundation in both front-end and back-end development, I ship these as reliable, scalable products — training, hosting, and serving models on **AWS SageMaker**, with **FastAPI, Docker, Nginx, and automated CI/CD** completing the stack.
 </i></b>
 
 
@@ -28,10 +26,11 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 <!-- - 🌱 I’m currently learning <b>Data Science</b> -->
 <!-- - 👯 I’m looking to collaborate on <b>Artificial Intelligence (AI)</b> -->
 <!-- - 🤝 I’m looking for help with <b>[Artificial Intelligence Project](https://github.com/Md-Emon-Hasan/Artificial-intelligence-Engineer.git)</b> -->
-- 👨‍💻 All of my projects are available at <b>[Emon Hasan GitHub](https://github.com/Md-Emon-Hasan)</b>
+- 👨‍💻 All of my projects are available at <b>[GitHub](https://github.com/Md-Emon-Hasan)</b>
 - 🌐 Portfolio: <b>[Emon Hasan Portfolio](https://emonlabs-ai.hitechparks.com)</b>
 - 📄 Resume: <b>[Emon Hasan Resume](https://md-emon-hasan.github.io/My-Resume/images/Md-Emon-Hasan.pdf)</b>
-- 💼 LinkedIn: <b>[Emon Hasan LinkedIn](https://www.linkedin.com/in/md-emon-hasan-695483237/)</b>
+- 🤗 View My all LLM models on <b>[huggingface.co/emonHasan01](https://huggingface.co/emonHasan01/models)</b>
+- 💼 LinkedIn: <b>[Md Emon Hasan](https://www.linkedin.com/in/md-emon-hasan-695483237/)</b>
 - 📝 I regularly write articles on <b>[medium.com/@emon.mlengineer](https://medium.com/@emon.mlengineer)</b>
 - 📫 How to reach me <b><a href="mailto:emon.mlengineer@gmail.com">emon.mlengineer@gmail.com</a></b>
 - 💬 Ask me about <b>Machine Learning</b>
@@ -40,14 +39,15 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ---
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?logo=vercel&logoColor=white)](https://emonlabs-ai.hitechparks.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-emon-hasan-695483237/)
-[![Medium](https://img.shields.io/badge/Medium-000000.svg?logo=medium&logoColor=white)](https://medium.com/@emon.mlengineer)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/8801834363533)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emon.mlengineer@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Md_EmonHasan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_emon_hasan01)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdemon.hasan2001/)<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=vercel&logoColor=white)](https://emonlabs-ai.hitechparks.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-emon-hasan-695483237/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/emonHasan01)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@emon.mlengineer)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801834363533)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emon.mlengineer@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/Md_EmonHasan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/md_emon_hasan01)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mdemon.hasan2001/)
 
 ---
 
@@ -57,14 +57,12 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 ### 🧠 Machine Learning (Classical ML)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-13C3F3?style=for-the-badge)
 ![Boosting](https://img.shields.io/badge/Boosting-3F51B5?style=for-the-badge)
-![Stacking](https://img.shields.io/badge/Stacking-9C27B0?style=for-the-badge)
 ![Cross-Validation](https://img.shields.io/badge/Cross--Validation-4CAF50?style=for-the-badge)
 ![XAI](https://img.shields.io/badge/XAI-FF0055?style=for-the-badge)
 ![Feature-Selection](https://img.shields.io/badge/Feature--Selection-8BC34A?style=for-the-badge)
@@ -80,7 +78,6 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ![Transfer-Learning](https://img.shields.io/badge/Transfer--Learning-FF6F00?style=for-the-badge)
 ![RNN](https://img.shields.io/badge/RNN-FF9800?style=for-the-badge)
 ![GRU](https://img.shields.io/badge/GRU-795548?style=for-the-badge)
-![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 ### 🧠 NLP & Representation Learning
@@ -103,7 +100,6 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent--Systems-3F51B5?style=for-the-badge)
 ![Tool Calling](https://img.shields.io/badge/Tool--Calling-000000?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-9C27B0?style=for-the-badge)
-![Context Engineering](https://img.shields.io/badge/Context--Engineering-795548?style=for-the-badge)
 
 
 ### 🔥 LLM Fine-Tuning & Training
@@ -122,7 +118,6 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ### 🧠 Vector Databases & Retrieval
 ![FAISS](https://img.shields.io/badge/FAISS-B500FF?style=for-the-badge)
 ![Chroma](https://img.shields.io/badge/Chroma-00FFAA?style=for-the-badge)
-![Milvus](https://img.shields.io/badge/Milvus-0099FF?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF0000?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -162,8 +157,10 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### 🚀 Deployment, MLOps & AgentOps
-![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🚀 Cloud, Deployment & MLOps
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Render](https://img.shields.io/badge/RENDER-111111?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Docker](https://img.shields.io/badge/Docker--Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Monitoring](https://img.shields.io/badge/Monitoring-FF5722?style=for-the-badge)
