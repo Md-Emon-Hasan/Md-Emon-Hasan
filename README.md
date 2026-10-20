@@ -38,11 +38,16 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 
 ---
 
+## 🔭 LLM Models, Projects and Blogs:
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/emonHasan01)
+[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat&logo=github&logoColor=white)](https://github.com/Md-Emon-Hasan)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@emon.mlengineer)
+
+---
+
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=flat&logo=vercel&logoColor=white)](https://emonlabs-ai.hitechparks.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-emon-hasan-695483237/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/emonHasan01)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@emon.mlengineer)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801834363533)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emon.mlengineer@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/MdEmonHasan01)
@@ -54,117 +59,118 @@ I also design **agentic AI systems** — multi-agent architectures and **RAG pip
 ## 🛠️ Tech Stack
 
 ### 💻 Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🧠 Machine Learning (Classical ML)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-13C3F3?style=for-the-badge)
-![Boosting](https://img.shields.io/badge/Boosting-3F51B5?style=for-the-badge)
-![Cross-Validation](https://img.shields.io/badge/Cross--Validation-4CAF50?style=for-the-badge)
-![XAI](https://img.shields.io/badge/XAI-FF0055?style=for-the-badge)
-![Feature-Selection](https://img.shields.io/badge/Feature--Selection-8BC34A?style=for-the-badge)
-![Regularization](https://img.shields.io/badge/Regularization-795548?style=for-the-badge)
 
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-13C3F3?style=flat)
+![Boosting](https://img.shields.io/badge/Boosting-3F51B5?style=flat)
+![Cross-Validation](https://img.shields.io/badge/Cross--Validation-4CAF50?style=flat)
+![XAI](https://img.shields.io/badge/XAI-FF0055?style=flat)
+![Feature Selection](https://img.shields.io/badge/Feature--Selection-8BC34A?style=flat)
+![Regularization](https://img.shields.io/badge/Regularization-795548?style=flat)
 
 ### 🧠 Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF5722?style=for-the-badge)
-![LSTM](https://img.shields.io/badge/LSTM-9C27B0?style=for-the-badge)
-![Transfer-Learning](https://img.shields.io/badge/Transfer--Learning-FF6F00?style=for-the-badge)
-![RNN](https://img.shields.io/badge/RNN-FF9800?style=for-the-badge)
-![GRU](https://img.shields.io/badge/GRU-795548?style=for-the-badge)
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF5722?style=flat)
+![LSTM](https://img.shields.io/badge/LSTM-9C27B0?style=flat)
+![Transfer Learning](https://img.shields.io/badge/Transfer--Learning-FF6F00?style=flat)
+![RNN](https://img.shields.io/badge/RNN-FF9800?style=flat)
+![GRU](https://img.shields.io/badge/GRU-795548?style=flat)
 
 ### 🧠 NLP & Representation Learning
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3C3B6E?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-9C27B0?style=for-the-badge)
-![Tokenization](https://img.shields.io/badge/Tokenization-000000?style=for-the-badge)
-![Attention](https://img.shields.io/badge/Attention-3F51B5?style=for-the-badge)
-![NER](https://img.shields.io/badge/NER-009688?style=for-the-badge)
-![Semantic-Search](https://img.shields.io/badge/Semantic--Search-00BCD4?style=for-the-badge)
 
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3C3B6E?style=flat)
+![Embeddings](https://img.shields.io/badge/Embeddings-9C27B0?style=flat)
+![Tokenization](https://img.shields.io/badge/Tokenization-000000?style=flat)
+![Attention](https://img.shields.io/badge/Attention-3F51B5?style=flat)
+![NER](https://img.shields.io/badge/NER-009688?style=flat)
+![Semantic Search](https://img.shields.io/badge/Semantic--Search-00BCD4?style=flat)
 
 ### 🤖 Artificial Intelligence & Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-007ACC?style=for-the-badge)
-![LangSmith](https://img.shields.io/badge/LangSmith-007ACC?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0080FF?style=for-the-badge)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent--Systems-3F51B5?style=for-the-badge)
-![Tool Calling](https://img.shields.io/badge/Tool--Calling-000000?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-9C27B0?style=for-the-badge)
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-007ACC?style=flat)
+![LangSmith](https://img.shields.io/badge/LangSmith-007ACC?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=flat)
+![RAG](https://img.shields.io/badge/RAG-0080FF?style=flat)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent--Systems-3F51B5?style=flat)
+![Tool Calling](https://img.shields.io/badge/Tool--Calling-000000?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-9C27B0?style=flat)
 
 ### 🔥 LLM Fine-Tuning & Training
-![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-00BCD4?style=for-the-badge)
-![PEFT](https://img.shields.io/badge/PEFT-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-00AEEF?style=for-the-badge)
-![QLoRA](https://img.shields.io/badge/QLoRA-B500FF?style=for-the-badge)
-![SFT](https://img.shields.io/badge/SFT-007ACC?style=for-the-badge)
-![RLHF](https://img.shields.io/badge/RLHF-FF9800?style=for-the-badge)
-![DPO](https://img.shields.io/badge/DPO-4CAF50?style=for-the-badge)
-![Quantization](https://img.shields.io/badge/Quantization-FF6F00?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge)
-![Instruction-Tuning](https://img.shields.io/badge/Instruction--Tuning-FF5722?style=for-the-badge)
 
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-00BCD4?style=flat)
+![PEFT](https://img.shields.io/badge/PEFT-FF6F00?style=flat&logo=huggingface&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-00AEEF?style=flat)
+![QLoRA](https://img.shields.io/badge/QLoRA-B500FF?style=flat)
+![SFT](https://img.shields.io/badge/SFT-007ACC?style=flat)
+![RLHF](https://img.shields.io/badge/RLHF-FF9800?style=flat)
+![DPO](https://img.shields.io/badge/DPO-4CAF50?style=flat)
+![Quantization](https://img.shields.io/badge/Quantization-FF6F00?style=flat)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat)
+![Instruction Tuning](https://img.shields.io/badge/Instruction--Tuning-FF5722?style=flat)
 
 ### 🧠 Vector Databases & Retrieval
-![FAISS](https://img.shields.io/badge/FAISS-B500FF?style=for-the-badge)
-![Chroma](https://img.shields.io/badge/Chroma-00FFAA?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF0000?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+![FAISS](https://img.shields.io/badge/FAISS-B500FF?style=flat)
+![Chroma](https://img.shields.io/badge/Chroma-00FFAA?style=flat)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF0000?style=flat)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### 📊 Data Science & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-009688?style=for-the-badge)
-![Feature-Engineering](https://img.shields.io/badge/Feature--Engineering-8BC34A?style=for-the-badge)
-![Statistical-Analysis](https://img.shields.io/badge/Statistical--Analysis-795548?style=for-the-badge)
-![Data-Cleaning](https://img.shields.io/badge/Data--Cleaning-000000?style=for-the-badge)
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-009688?style=flat)
+![Feature Engineering](https://img.shields.io/badge/Feature--Engineering-8BC34A?style=flat)
+![Statistical Analysis](https://img.shields.io/badge/Statistical--Analysis-795548?style=flat)
+![Data Cleaning](https://img.shields.io/badge/Data--Cleaning-000000?style=flat)
 
 ### 🗄️ SQL & Databases
-![MySQL](https://img.shields.io/badge/MySQL-00748B?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-00748B?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
 ### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=oauth&logoColor=white)
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=flat&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat&logo=oauth&logoColor=white)
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🚀 Cloud, Deployment & MLOps
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Render](https://img.shields.io/badge/RENDER-111111?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Docker](https://img.shields.io/badge/Docker--Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Monitoring](https://img.shields.io/badge/Monitoring-FF5722?style=for-the-badge)
-![Logging](https://img.shields.io/badge/Logging-009688?style=for-the-badge)
+
+![AWS](https://img.shields.io/badge/AWS-111111?style=flat&logo=amazonaws&logoColor=FF9900)
+![Render](https://img.shields.io/badge/Render-111111?style=flat&logo=render&logoColor=46E3B7)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-FF5722?style=flat)
+![Logging](https://img.shields.io/badge/Logging-009688?style=flat)
 
 ---
 
